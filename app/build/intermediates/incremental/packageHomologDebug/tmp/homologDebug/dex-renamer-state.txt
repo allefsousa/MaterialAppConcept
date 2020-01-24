@@ -1,0 +1,10 @@
+#Fri Jan 24 20:42:49 BRST 2020
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/allef.santos/Desktop/Exemplos para Estudar/MaterialAppConcept/app/build/intermediates/dex/homologDebug/mergeExtDexHomologDebug/out/classes2.dex
+base.1=/Users/allef.santos/Desktop/Exemplos para Estudar/MaterialAppConcept/app/build/intermediates/dex/homologDebug/mergeProjectDexHomologDebug/out/classes.dex
+base.0=/Users/allef.santos/Desktop/Exemplos para Estudar/MaterialAppConcept/app/build/intermediates/dex/homologDebug/mergeExtDexHomologDebug/out/classes.dex

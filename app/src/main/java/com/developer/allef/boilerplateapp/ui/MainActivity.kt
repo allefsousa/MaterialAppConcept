@@ -6,8 +6,8 @@ import android.text.TextWatcher
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import com.developer.allef.boilerplateapp.R
-import com.developer.allef.boilerplateapp.ui.validaroboleto.BoletoBancarioTextWatcher
-import com.developer.allef.boilerplateapp.ui.validaroboleto.SampleEventoDeValidacao
+import com.developer.allef.boilerplateapp.validadorboleto.BoletoBancarioTextWatcher
+import com.developer.allef.boilerplateapp.validadorboleto.SampleEventoDeValidacao
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -19,11 +19,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        bind(edit_text)
         btn_show_dialog.setOnClickListener {
             dialogBuild()
         }
-        bind(edit_text)
     }
 
 

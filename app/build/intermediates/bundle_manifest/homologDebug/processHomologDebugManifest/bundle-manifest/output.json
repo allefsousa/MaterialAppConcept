@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-homolog-debug.apk","fullName":"homologDebug","baseName":"homolog-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.developer.allef.boilerplateapp.homolog","split":"","minSdkVersion":"19"}}]

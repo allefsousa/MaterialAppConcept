@@ -1,0 +1,4 @@
+# Referenced at /Users/allef.santos/Desktop/Exemplos para Estudar/MaterialAppConcept/app/build/intermediates/merged_manifests/homologDebug/AndroidManifest.xml:11
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/allef.santos/Desktop/Exemplos para Estudar/MaterialAppConcept/app/build/intermediates/merged_manifests/homologDebug/AndroidManifest.xml:11
+-keep class com.developer.allef.boilerplateapp.AppApplication { <init>(); }
